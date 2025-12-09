@@ -1,1 +1,4 @@
 # Hola chiqui
+
+class Tablero:
+
